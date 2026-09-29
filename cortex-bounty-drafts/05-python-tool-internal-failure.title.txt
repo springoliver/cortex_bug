@@ -1,0 +1,1 @@
+Chat python tool fails instantly with an internal error, so code runs and generated files never succeed

@@ -1,0 +1,1 @@
+Recents row menu Pin/Archive send isPinned/isArchived but PATCH /v1/conversations only accepts pinned/archived, so those actions 422

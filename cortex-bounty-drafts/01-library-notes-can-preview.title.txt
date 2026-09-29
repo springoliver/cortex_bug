@@ -1,0 +1,1 @@
+Library notes from POST /v1/library/notes set can_preview=false and /export 404s, so Library never shows the note body
